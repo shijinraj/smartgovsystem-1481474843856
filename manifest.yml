@@ -1,0 +1,13 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: smartgovsystem
+  host: smartgovsystem
+  disk_quota: 1024M
+  services:
+  - Compose for MongoDB-qs
+  - Decision Optimization-vq
+  - Insights for Twitter-rz
+  - smartgovMongoDB-v1
