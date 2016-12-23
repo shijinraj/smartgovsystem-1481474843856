@@ -1,5 +1,5 @@
 module.exports = {
-	urlSubjectViews: 'mongodb://sl-us-dal-9-portal.4.dblayer.com:17098/admin?ssl=true',
+	urlSubjectViews: 'mongodb://admin:YWUXXBYAVGUARRCQ@sl-us-dal-9-portal.4.dblayer.com:17098/admin',
 	
 
 }
