@@ -1,4 +1,5 @@
 module.exports = {
-	urlSubjectViews: 'mongodb://localhost:27017/parsedTwitter',
+	urlSubjectViews: 'mongodb://sl-us-dal-9-portal.4.dblayer.com:17098/admin?ssl=true',
+	
 
 }
